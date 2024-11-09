@@ -28,7 +28,6 @@ Let me introduce myself, my name is Tales, I'm learning to code.
   <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=ff0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
 </a>
 
-## Todo List 📚
-> I won't necessarily do everything in that order.
+![github contribution grid snake animation](https://raw.githubusercontent.com/TalesCouti/TalesCouti/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
     
