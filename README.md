@@ -1,6 +1,6 @@
 # Welcome to my profile! 🎉
 
-Let me introduce myself, my name is Tales,I am a student in Computer engineering and currently learning to code with a focus on back end.
+Let me introduce myself, my name is Tales,I'm a student in Computer engineering and currently learning to code with a focus on back end.
 
 ## My performance lately 💪
 
