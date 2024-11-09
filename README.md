@@ -12,10 +12,10 @@ Let me introduce myself, my name is Tales, I'm learning to code with a focus on 
 
 ## Some tools I use ⚒️
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,vscode)](https://github.com/TalesCouti?tab=repositories)
+[![My Skills](https://skillicons.dev/icons?i=py,js,html,css,nodejs,vscode)](https://github.com/TalesCouti?tab=repositories)
 
 ## What I'm learning
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,vscode)](https://github.com/TalesCouti?tab=repositories)
+[![My Skills](https://skillicons.dev/icons?i=py,js,html,css,nodejs,vscode)](https://github.com/TalesCouti?tab=repositories)
 
 ## My social networks 🌐
 
