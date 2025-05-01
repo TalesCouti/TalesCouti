@@ -12,10 +12,10 @@ Let me introduce myself, my name is Tales,I'm a student in Computer engineering 
 
 ## Some tools I use ⚒️
 
-[![My Skills](https://skillicons.dev/icons?i=py,vscode,django)](https://github.com/TalesCouti?tab=repositories)
+[![My Skills](https://skillicons.dev/icons?i=py,vscode,js,nodejs)](https://github.com/TalesCouti?tab=repositories)
 
 ## What I'm learning
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs)](https://github.com/TalesCouti?tab=repositories)
+[![My Skills](https://skillicons.dev/icons?i=html,css)](https://github.com/TalesCouti?tab=repositories)
 
 ## My social networks 🌐
 
